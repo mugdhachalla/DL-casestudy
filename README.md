@@ -38,14 +38,9 @@ This project grades retinal fundus images into the five stages of diabetic retin
 - **The ensemble** gives the best referral performance (AUC 0.966).
 - **Moderate DR is the hardest grade** for every model, often confused with Mild or Severe. Most of these errors stay within the referable group, so referral performance remains high.
 
-<p align="center"><img src="figures/confusion_matrices.png" width="100%"></p>
-<p align="center"><img src="figures/roc_and_per_class_f1.png" width="85%"></p>
-
 ---
 
 ## Grad-CAM: where each model looks
-
-<p align="center"><img src="figures/gradcam_comparison.png" width="70%"></p>
 
 ResNet50 and DenseNet121 focus on the exudate clusters in the Moderate and Severe examples. In some cases, though, models attend to image borders or corners. These are correct answers for the wrong reason, which accuracy alone would never reveal.
 
