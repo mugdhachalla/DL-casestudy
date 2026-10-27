@@ -140,19 +140,6 @@ Python · TensorFlow / Keras · scikit-learn · NumPy · Pandas · Matplotlib ·
 
 ---
 
-## Team
-
-| Roll No. | Name |
-|---|---|
-| 160124748076 | Mugdha Challa |
-| 160124748082 | Shresta Kancharla |
-
-
-**Guide:** Panigrahi Srikanth, Assistant Professor, Department of CSE (AI & ML), CBIT, Hyderabad
-Academic Year 2026–2027
-
----
-
 ## References
 
 1. V. Gulshan et al., "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs," *JAMA*, 2016.
